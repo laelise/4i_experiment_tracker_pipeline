@@ -1,0 +1,96 @@
+{
+  "experiment_name": "Liposarcoma 863 Abemaciclib Treatment July 2025",
+  "base_dir": "Z:\\Lauryn\\Liposarcoma\\Liposarcoma_2025\\LPS_863_Abema_July_2025",
+  "date_completed": "07.1.2025",
+  "cell_type": "LPS 863",
+  "passage": "",
+  "notes": "Plate also included LPS246 with the same treatments but on rows A and B, and Nutlin treatments were also applied on wells 09-11 but not included in this computational analysis.",
+  "well_list": [
+    "D02",
+    "D03",
+    "D04",
+    "D05",
+    "D06",
+    "D07",
+    "D08",
+    "E02",
+    "E03",
+    "E04",
+    "E05",
+    "E06",
+    "E07",
+    "E08"
+  ],
+  "well_metadata": {
+    "D02": {
+      "dose": "0 nM",
+      "treatment": "Abema",
+      "sample_ID": "1"
+    },
+    "D03": {
+      "dose": "10 nM",
+      "treatment": "Abema",
+      "sample_ID": "2"
+    },
+    "D04": {
+      "dose": "25 nM",
+      "treatment": "Abema",
+      "sample_ID": "3"
+    },
+    "D05": {
+      "dose": "50nM",
+      "treatment": "Abema",
+      "sample_ID": "4"
+    },
+    "D06": {
+      "dose": "100 nM",
+      "treatment": "Abema",
+      "sample_ID": "5"
+    },
+    "D07": {
+      "dose": "250 nM",
+      "treatment": "Abema",
+      "sample_ID": "6"
+    },
+    "D08": {
+      "dose": "500 nM",
+      "treatment": "Abema",
+      "sample_ID": "7"
+    },
+    "E02": {
+      "dose": "0 nM",
+      "treatment": "Abema",
+      "sample_ID": "1"
+    },
+    "E03": {
+      "dose": "10 nM",
+      "treatment": "Abema",
+      "sample_ID": "2"
+    },
+    "E04": {
+      "dose": "25 nM",
+      "treatment": "Abema",
+      "sample_ID": "3"
+    },
+    "E05": {
+      "dose": "50 nM",
+      "treatment": "Abema",
+      "sample_ID": "4"
+    },
+    "E06": {
+      "dose": "100 nM",
+      "treatment": "Abema",
+      "sample_ID": "5"
+    },
+    "E07": {
+      "dose": "250 nM",
+      "treatment": "Abema",
+      "sample_ID": "6"
+    },
+    "E08": {
+      "dose": "500 nM",
+      "treatment": "Abema",
+      "sample_ID": "7"
+    }
+  }
+}
